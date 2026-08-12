@@ -1,3 +1,4 @@
+# Modificado por Karen
 """Snake, classic arcade game.
 
 Exercises
